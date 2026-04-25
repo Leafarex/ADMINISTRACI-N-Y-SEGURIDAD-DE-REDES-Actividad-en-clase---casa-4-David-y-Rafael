@@ -1,0 +1,9 @@
+Valor recuperado desde la firma de Persona 2
+
+Al verificar la firma de Persona 2 con su llave pública, se obtiene este valor:
+
+85927358999919041099282792843387311138117841474178847620896992821972657068460
+
+Este valor debe compararse contra el valor preparado del mensaje recibido:
+
+85927358999919041099282792843387311138117841474178847620896992821972657068460

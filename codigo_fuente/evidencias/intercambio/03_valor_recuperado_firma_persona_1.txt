@@ -1,0 +1,9 @@
+Valor recuperado desde la firma de Persona 1
+
+Al verificar la firma de Persona 1 con su llave pública, se obtiene este valor:
+
+66181080422506611818830264928591296009892421481014142710706782634621741861418
+
+Este valor debe compararse contra el valor preparado del mensaje recibido:
+
+66181080422506611818830264928591296009892421481014142710706782634621741861418

@@ -1,0 +1,13 @@
+Prueba con firma mal formada
+
+Mensaje:
+Que onda David ¿como estas?, ¿listo para la actividad?.
+
+Firma enviada:
+firma_no_numerica
+
+Resultado:
+False
+
+Explicación:
+La firma debe ser un número entero.

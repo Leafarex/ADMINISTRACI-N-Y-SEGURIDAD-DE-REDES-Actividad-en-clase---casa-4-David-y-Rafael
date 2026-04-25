@@ -1,4 +1,4 @@
-Detalles educativos de generación de llaves de Persona 1
+Detalles educativos de generación de llaves de Mr. _¿Sí? ¿Clarito?_
 
 Estos valores se muestran solo para explicar cómo se generaron las llaves.
 En un sistema real no deberían compartirse.

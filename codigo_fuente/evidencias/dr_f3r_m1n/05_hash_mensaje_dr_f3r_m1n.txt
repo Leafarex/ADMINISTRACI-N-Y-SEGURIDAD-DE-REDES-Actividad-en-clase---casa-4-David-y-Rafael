@@ -1,0 +1,13 @@
+Preparación del mensaje de Dr. F3R M1N
+
+Mensaje original:
+Gracias, lo reviso. Me encuentro un poco rebasado en actividades con mis alumnos que no me ponenen atención.
+
+Hash SHA-256:
+e3e2fd554c5b2a6e2343589a538bb16beac62d12fb1e3c17527dfea6c91f8bfc
+
+Hash convertido a entero:
+103076072506503827317906114513116444400631586996149843769511709783137309395964
+
+Valor preparado dentro del módulo n:
+103076072506503827317906114513116444400631586996149843769511709783137309395964

@@ -1,3 +1,0 @@
-Mensaje alterado de Persona 1:
-
-Hola Persona 2, este mensaje fue alterado después de ser firmado por Persona 1.

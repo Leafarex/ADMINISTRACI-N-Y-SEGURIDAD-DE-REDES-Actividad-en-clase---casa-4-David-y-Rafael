@@ -1,0 +1,13 @@
+Preparación del mensaje de Mr. _¿Sí? ¿Clarito?_
+
+Mensaje original:
+Estimado, Doctor. Disculpe la hora, le escribo para recomendarle un posdoctorado de Algoritmos Cuánticos. [enlace]
+
+Hash SHA-256:
+e8a10cc50e84108ec8df19be755f5d70f6daea006eec967e9a3ee9fc248f7061
+
+Hash convertido a entero:
+105221131382341477236149514329467920661141078850711226872006439311738873540705
+
+Valor preparado dentro del módulo n:
+105221131382341477236149514329467920661141078850711226872006439311738873540705

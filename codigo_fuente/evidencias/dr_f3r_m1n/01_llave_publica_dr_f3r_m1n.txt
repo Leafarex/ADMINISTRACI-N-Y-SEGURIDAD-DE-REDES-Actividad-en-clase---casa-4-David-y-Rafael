@@ -1,4 +1,4 @@
-Llave pública de Persona 2
+Llave pública de Dr. F3R M1N
 
 Esta llave puede compartirse.
 Sirve para verificar firmas creadas con la llave privada correspondiente.

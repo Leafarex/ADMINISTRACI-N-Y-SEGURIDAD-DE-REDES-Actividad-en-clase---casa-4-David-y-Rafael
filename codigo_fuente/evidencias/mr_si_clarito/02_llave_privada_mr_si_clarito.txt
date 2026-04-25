@@ -1,4 +1,4 @@
-Llave privada de Persona 1
+Llave privada de Mr. _¿Sí? ¿Clarito?_
 
 Esta llave debe mantenerse en secreto.
 Sirve para firmar mensajes.

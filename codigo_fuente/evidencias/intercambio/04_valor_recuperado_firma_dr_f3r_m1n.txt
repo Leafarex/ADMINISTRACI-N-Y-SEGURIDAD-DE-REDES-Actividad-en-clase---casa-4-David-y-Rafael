@@ -1,0 +1,9 @@
+Valor recuperado desde la firma de Dr. F3R M1N
+
+Al verificar la firma de Dr. F3R M1N con su llave pública, se obtiene este valor:
+
+103076072506503827317906114513116444400631586996149843769511709783137309395964
+
+Este valor debe compararse contra el valor preparado del mensaje recibido:
+
+103076072506503827317906114513116444400631586996149843769511709783137309395964

@@ -1,4 +1,4 @@
-Llave privada de Persona 2
+Llave privada de Dr. F3R M1N
 
 Esta llave debe mantenerse en secreto.
 Sirve para firmar mensajes.

@@ -1,4 +1,4 @@
-Detalles educativos de generación de llaves de Persona 2
+Detalles educativos de generación de llaves de Dr. F3R M1N
 
 Estos valores se muestran solo para explicar cómo se generaron las llaves.
 En un sistema real no deberían compartirse.

@@ -1,7 +1,7 @@
 Prueba con firma mal formada
 
 Mensaje:
-Que onda David ¿como estas?, ¿listo para la actividad?.
+Estimado, Doctor. Disculpe la hora, le escribo para recomendarle un posdoctorado de Algoritmos Cuánticos. [enlace]
 
 Firma enviada:
 firma_no_numerica

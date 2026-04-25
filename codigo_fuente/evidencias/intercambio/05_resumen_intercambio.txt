@@ -1,12 +1,12 @@
 Resumen del intercambio
 
-Persona 1 firma su propio mensaje con su llave privada.
-Persona 2 firma su propio mensaje con su llave privada.
+Mr. _¿Sí? ¿Clarito?_ firma su propio mensaje con su llave privada.
+Dr. F3R M1N firma su propio mensaje con su llave privada.
 
-Persona 1 verifica el mensaje de Persona 2 usando la llave pública de Persona 2:
+Mr. _¿Sí? ¿Clarito?_ verifica el mensaje de Dr. F3R M1N usando la llave pública de Dr. F3R M1N:
 True - La firma es válida.
 
-Persona 2 verifica el mensaje de Persona 1 usando la llave pública de Persona 1:
+Dr. F3R M1N verifica el mensaje de Mr. _¿Sí? ¿Clarito?_ usando la llave pública de Mr. _¿Sí? ¿Clarito?_:
 True - La firma es válida.
 
 La llave privada no se comparte.

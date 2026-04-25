@@ -1,0 +1,9 @@
+Valor recuperado desde la firma de Mr. _¿Sí? ¿Clarito?_
+
+Al verificar la firma de Mr. _¿Sí? ¿Clarito?_ con su llave pública, se obtiene este valor:
+
+105221131382341477236149514329467920661141078850711226872006439311738873540705
+
+Este valor debe compararse contra el valor preparado del mensaje recibido:
+
+105221131382341477236149514329467920661141078850711226872006439311738873540705

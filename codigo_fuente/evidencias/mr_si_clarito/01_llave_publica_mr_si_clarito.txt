@@ -1,4 +1,4 @@
-Llave pública de Persona 1
+Llave pública de Mr. _¿Sí? ¿Clarito?_
 
 Esta llave puede compartirse.
 Sirve para verificar firmas creadas con la llave privada correspondiente.

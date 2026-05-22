@@ -1,0 +1,65 @@
+[
+    {
+        "prueba": "Resultado del paquete válido",
+        "estructura_valida": true,
+        "mensaje_valido": true,
+        "mensaje_descifrado": "Estimado Dr. F3R M1N, este mensaje viaja cifrado, firmado y dentro de un paquete JSON.",
+        "explicacion": "La firma es válida. El mensaje fue descifrado, no fue alterado y corresponde al emisor indicado."
+    },
+    {
+        "prueba": "Resultado del paquete con mensaje vacío",
+        "estructura_valida": true,
+        "mensaje_valido": true,
+        "mensaje_descifrado": "",
+        "explicacion": "La firma es válida. El mensaje fue descifrado, no fue alterado y corresponde al emisor indicado."
+    },
+    {
+        "prueba": "Resultado del paquete con mensaje alterado después de firmar",
+        "estructura_valida": true,
+        "mensaje_valido": false,
+        "mensaje_descifrado": "Este mensaje fue alterado después de haber generado la firma.",
+        "explicacion": "La firma no corresponde al mensaje o a la llave pública usada."
+    },
+    {
+        "prueba": "Resultado del paquete con firma alterada",
+        "estructura_valida": true,
+        "mensaje_valido": false,
+        "mensaje_descifrado": "Estimado Dr. F3R M1N, este mensaje viaja cifrado, firmado y dentro de un paquete JSON.",
+        "explicacion": "La firma no corresponde al mensaje o a la llave pública usada."
+    },
+    {
+        "prueba": "Resultado del paquete con llave pública incorrecta",
+        "estructura_valida": true,
+        "mensaje_valido": false,
+        "mensaje_descifrado": "Estimado Dr. F3R M1N, este mensaje viaja cifrado, firmado y dentro de un paquete JSON.",
+        "explicacion": "La firma no corresponde al mensaje o a la llave pública usada."
+    },
+    {
+        "prueba": "Resultado al intentar descifrar con llave privada incorrecta",
+        "estructura_valida": true,
+        "mensaje_valido": false,
+        "mensaje_descifrado": null,
+        "explicacion": "No se pudo recuperar la clave de sesión. La clave recuperada no tiene el tamaño esperado."
+    },
+    {
+        "prueba": "Resultado del paquete JSON incompleto",
+        "estructura_valida": false,
+        "mensaje_valido": false,
+        "mensaje_descifrado": null,
+        "explicacion": "El paquete JSON está incompleto. Faltan campos: signature."
+    },
+    {
+        "prueba": "Resultado del paquete JSON con datos mal formados",
+        "estructura_valida": true,
+        "mensaje_valido": false,
+        "mensaje_descifrado": null,
+        "explicacion": "La clave de sesión cifrada no tiene formato numérico válido."
+    },
+    {
+        "prueba": "Resultado del paquete con firma que no corresponde",
+        "estructura_valida": true,
+        "mensaje_valido": false,
+        "mensaje_descifrado": "Estimado Dr. F3R M1N, este mensaje viaja cifrado, firmado y dentro de un paquete JSON.",
+        "explicacion": "La firma no corresponde al mensaje o a la llave pública usada."
+    }
+]

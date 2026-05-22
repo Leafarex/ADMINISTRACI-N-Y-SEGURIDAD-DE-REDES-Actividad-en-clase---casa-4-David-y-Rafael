@@ -1,0 +1,37 @@
+Paquete JSON con mensaje vacío
+
+Mensaje original:
+
+
+Hash SHA-256 del mensaje:
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Valor preparado para firma:
+102987336249554097029535212322581322789799900648198034993379397001115665086549
+
+Firma generada con la llave privada del emisor:
+3777577395558989339541223319483450430534872734883109322540200496897146925825733226791780656744339747808857662630779255836701274854097884411618760603534941
+
+Clave de sesión en hexadecimal, solo evidencia local:
+3af71a84fc2bbac5d8799673912fcd193f12de8eb3a7da258a77a012f0b2e0f1
+
+Mensaje cifrado guardado en JSON:
+
+
+Clave de sesión cifrada con RSA:
+645034493304139691222494904930436593686996726523977987720418473071589938714249969235751266468755587152545141094137800842575231000904454620987671081570853
+
+Emisor:
+Mr. _¿Sí? ¿Clarito?_
+
+Receptor:
+Dr. F3R M1N
+
+Tipo de cifrado:
+XOR educativo con flujo derivado de SHA-256
+
+Protección de clave:
+RSA con llave pública del receptor
+
+Nota:
+El paquete JSON no contiene llaves privadas.

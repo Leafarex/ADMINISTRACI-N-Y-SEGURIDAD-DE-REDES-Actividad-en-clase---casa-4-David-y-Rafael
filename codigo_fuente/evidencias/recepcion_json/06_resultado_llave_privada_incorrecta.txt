@@ -1,0 +1,22 @@
+Resultado al intentar descifrar con llave privada incorrecta
+
+Emisor indicado:
+Mr. _¿Sí? ¿Clarito?_
+
+Receptor indicado:
+Dr. F3R M1N
+
+Estructura válida:
+True
+
+Mensaje válido:
+False
+
+Mensaje descifrado:
+None
+
+Explicación:
+No se pudo recuperar la clave de sesión. La clave recuperada no tiene el tamaño esperado.
+
+Detalles técnicos:
+{}

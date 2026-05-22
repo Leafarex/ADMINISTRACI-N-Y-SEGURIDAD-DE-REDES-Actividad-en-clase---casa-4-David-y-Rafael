@@ -1,0 +1,22 @@
+Resultado del paquete JSON incompleto
+
+Emisor indicado:
+Mr. _¿Sí? ¿Clarito?_
+
+Receptor indicado:
+Dr. F3R M1N
+
+Estructura válida:
+False
+
+Mensaje válido:
+False
+
+Mensaje descifrado:
+None
+
+Explicación:
+El paquete JSON está incompleto. Faltan campos: signature.
+
+Detalles técnicos:
+{}

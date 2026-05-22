@@ -1,0 +1,29 @@
+Resultado del paquete con firma que no corresponde
+
+Emisor indicado:
+Mr. _¿Sí? ¿Clarito?_
+
+Receptor indicado:
+Dr. F3R M1N
+
+Estructura válida:
+True
+
+Mensaje válido:
+False
+
+Mensaje descifrado:
+Estimado Dr. F3R M1N, este mensaje viaja cifrado, firmado y dentro de un paquete JSON.
+
+Explicación:
+La firma no corresponde al mensaje o a la llave pública usada.
+
+Detalles técnicos:
+{
+    "clave_sesion_recuperada_hex": "53c1597a1605174c2e6099b648717c667641c406569df64929ea7f0426ac8e45",
+    "verificacion_firma": {
+        "hash_mensaje_recibido": "a593586937293026989aa2a48a92f429b8b0f81db1b73b1ee19bd61b6f579f4d",
+        "valor_preparado_mensaje_recibido": 74891956725043414037258722145927192340374731379498915217967818434914456936269,
+        "valor_recuperado_desde_firma": 5805721832557118925661032545973375334371795490682304821548740222822464406128
+    }
+}

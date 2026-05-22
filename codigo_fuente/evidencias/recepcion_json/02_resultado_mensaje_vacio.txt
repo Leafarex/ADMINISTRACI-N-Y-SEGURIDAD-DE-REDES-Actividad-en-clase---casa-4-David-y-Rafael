@@ -1,0 +1,29 @@
+Resultado del paquete con mensaje vacío
+
+Emisor indicado:
+Mr. _¿Sí? ¿Clarito?_
+
+Receptor indicado:
+Dr. F3R M1N
+
+Estructura válida:
+True
+
+Mensaje válido:
+True
+
+Mensaje descifrado:
+
+
+Explicación:
+La firma es válida. El mensaje fue descifrado, no fue alterado y corresponde al emisor indicado.
+
+Detalles técnicos:
+{
+    "clave_sesion_recuperada_hex": "3af71a84fc2bbac5d8799673912fcd193f12de8eb3a7da258a77a012f0b2e0f1",
+    "verificacion_firma": {
+        "hash_mensaje_recibido": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "valor_preparado_mensaje_recibido": 102987336249554097029535212322581322789799900648198034993379397001115665086549,
+        "valor_recuperado_desde_firma": 102987336249554097029535212322581322789799900648198034993379397001115665086549
+    }
+}

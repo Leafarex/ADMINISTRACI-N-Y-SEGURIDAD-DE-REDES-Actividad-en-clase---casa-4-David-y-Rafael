@@ -20,7 +20,7 @@ La firma es válida. El mensaje fue descifrado, no fue alterado y corresponde al
 
 Detalles técnicos:
 {
-    "clave_sesion_recuperada_hex": "53c1597a1605174c2e6099b648717c667641c406569df64929ea7f0426ac8e45",
+    "clave_sesion_recuperada_hex": "ef206538a36d4d40cb0835acecd4006eb7bb3b75f57c3822dcd6a8f0c80801c5",
     "verificacion_firma": {
         "hash_mensaje_recibido": "a593586937293026989aa2a48a92f429b8b0f81db1b73b1ee19bd61b6f579f4d",
         "valor_preparado_mensaje_recibido": 74891956725043414037258722145927192340374731379498915217967818434914456936269,

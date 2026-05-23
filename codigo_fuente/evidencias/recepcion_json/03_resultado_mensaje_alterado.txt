@@ -20,7 +20,7 @@ La firma no corresponde al mensaje o a la llave pública usada.
 
 Detalles técnicos:
 {
-    "clave_sesion_recuperada_hex": "53c1597a1605174c2e6099b648717c667641c406569df64929ea7f0426ac8e45",
+    "clave_sesion_recuperada_hex": "ef206538a36d4d40cb0835acecd4006eb7bb3b75f57c3822dcd6a8f0c80801c5",
     "verificacion_firma": {
         "hash_mensaje_recibido": "589fd84be297b41747ee3661f5a2e85fd8738facae26cdde745c54b6988603e8",
         "valor_preparado_mensaje_recibido": 40085952181697097192450178313171714022700556853333740521993223827624177304552,
